@@ -1,12 +1,4 @@
-![DirectX Logo](https://raw.githubusercontent.com/wiki/Microsoft/DirectXTK12/X_jpg.jpg)
-
-# DirectX Tool Kit for DirectX 12
-
-http://go.microsoft.com/fwlink/?LinkID=615561
-
-Copyright (c) Microsoft Corporation.
-
-**December 31, 2023**
+This is XShader, based on DX12, aiming to make everything graphics easier to implement and play.
 
 This package contains the "DirectX Tool Kit", a collection of helper classes for writing Direct3D 12 C++ code for Universal Windows Platform (UWP) apps for Windows 11 and Windows 10, game titles for Xbox Series X\|S and Xbox One, and Win32 desktop applications for Windows 11 and Windows 10.
 
